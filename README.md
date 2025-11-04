@@ -41,7 +41,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
-
+o este con ultima version
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow opencv-python Pillow joblib tf-keras
+```
 ## ▶️ Ejecución
 
 ### Ejecutar proyecto completo
