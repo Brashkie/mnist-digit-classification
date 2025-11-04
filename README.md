@@ -130,7 +130,12 @@ pip install Pillow==10.0.0
 pip install joblib==1.3.2
 ```
 
-### Opción 3: Con Conda
+### Opcion 3: Instalacion librerias de ultima version
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn tensorflow opencv-python Pillow joblib tf-keras
+```
+
+### Opción 4: Con Conda
 ```bash
 conda create -n mnist_env python=3.10
 conda activate mnist_env
