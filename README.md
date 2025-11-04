@@ -627,4 +627,6 @@ python main.py
 
 [⬆ Volver arriba](#-clasificación-de-dígitos-manuscritos---tecnoforms)
 
+**Hecho por el equipo de Hepein**
+
 </div>
